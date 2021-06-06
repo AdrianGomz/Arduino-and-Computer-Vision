@@ -22,7 +22,7 @@ servo_motor=ard.get_pin('d:9:s')
 
 To conect the leds we have to conect 6 leds, one for each pin from 3 to 6 on the arduino.
 
-
+[Video of the program working](https://youtu.be/akrJ4UTmD2M")
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/akrJ4UTmD2M/0.jpg)](https://www.youtube.com/watch?v=akrJ4UTmD2M)
